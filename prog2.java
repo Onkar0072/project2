@@ -1,6 +1,6 @@
-class A
+class C
 {
 }
-class B
+class D
 {
 }

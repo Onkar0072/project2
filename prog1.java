@@ -1,9 +1,9 @@
 class A
 {
-void f1()
+void f11()
 {
 }
-void f2()
+void f12()
 {}
 
 }
